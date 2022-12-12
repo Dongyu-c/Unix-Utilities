@@ -1,0 +1,12 @@
+---
+:id: 73224613
+:submitters:
+- :name: Dongyu Chen
+  :email: doychen@ucdavis.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-04-05 21:37:24.716241000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-04-05 14:37:24.716241000 Z
+:status: processed
+:score: 100.0
